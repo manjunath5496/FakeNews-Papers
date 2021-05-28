@@ -4,36 +4,35 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(1).pdf" style="text-decoration:none;">The agenda-setting power of
+fake news: A big data analysis of the online media landscape from 2014 to 2016</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(2).pdf" style="text-decoration:none;">The science of fake news</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(3).pdf" style="text-decoration:none;">Fake news on Twitter during the 2016
+U.S. presidential election</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(4).pdf" style="text-decoration:none;">The spread of true and false
+news online</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(5).pdf" style="text-decoration:none;">A Stylometric Inquiry into Hyperpartisan and Fake News</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(6).pdf" style="text-decoration:none;">Some Like it Hoax: Automated Fake News Detection in Social Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(7).pdf" style="text-decoration:none;">"Liar, Liar Pants on Fire":
+A New Benchmark Dataset for Fake News Detection</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(8).pdf" style="text-decoration:none;"> Fake News Detection on Social Media:
+A Data Mining Perspective </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(9).pdf" style="text-decoration:none;">Fake News Detection in Social Networks via Crowd Signals</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(10).pdf" style="text-decoration:none;">Polarization and Fake News: EarlyWarning of Potential Misinformation Targets </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(11).pdf" style="text-decoration:none;">False Information on Web and Social Media: A Survey</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(12).pdf" style="text-decoration:none;">Studying Fake News via Network Analysis:
+Detection and Mitigation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(13).pdf" style="text-decoration:none;">The Rise of Guardians: Fact-checking URL Recommendation to Combat Fake News</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(14).pdf" style="text-decoration:none;">A Kernel of Truth: Determining Rumor Veracity on Twitter by Diffusion Pattern Alone</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(15).pdf" style="text-decoration:none;">MALCOM: Generating Malicious Comments to
+Attack Neural Fake News Detection Models</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/FakeNews-Papers/blob/master/fn(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
 for Data Analytics Clusters</a></li>
